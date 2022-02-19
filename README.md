@@ -1,5 +1,4 @@
 # SQL-Server-Functions-StoredProcedures
-
 # Temporal EDA, Variables & Date Manipulation:
 How to create scalar and table variables to store data
 Date manipulation functions like DATEDIFF( ), DATENAME( ), DATEPART( ), CAST( ), CONVERT( ), GETDATE( ), and DATEADD( )
